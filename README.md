@@ -6,4 +6,4 @@ Welcome to our futuristic AI Chatbot powered by Google Gen AI! 🌟 Engage in in
 
 1. **Clone the Repository:** Get the code by cloning this repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/hasnain-kk/GenAI_ChatBot>
