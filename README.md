@@ -10,7 +10,7 @@ Welcome to our futuristic AI Chatbot powered by Google Gen AI! 🌟 Engage in in
 
 2. **Get API Key:** Obtain your API key from Google AI Studio.
    ```bash
-   https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Faistudio.google.com%2Fapp%2Fapikey
+   https://aistudio.google.com/app/apikey
 
 3. **Configuration:** Set up the API key in the code to authenticate with Google Gen AI.
 
