@@ -16,7 +16,7 @@ Welcome to our futuristic AI Chatbot powered by Google Gen AI! 🌟 Engage in in
 
 
 
-🚀 Features
+## 🚀 Features
 1. Intelligent Conversations: Dive into natural language interactions with our advanced Chatbot.
 2. Instant Responses: Get swift and accurate responses to your queries and prompts.
 3. Customizable Settings: Tailor the generation settings (temperature, top-p, top-k) to your preferences.
